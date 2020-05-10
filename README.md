@@ -18,3 +18,5 @@
 3. **GenerateFakes.ipynb** : The script loads in the trained autoGAN model to generate fake/reconstructed images based on input image (pair-wise generation).
 
 4. **CNN_classifier.ipynb** : The script trains and predicts a simple CNN based classifier as per the workflow described in the report.
+
+5. **DCGAN_classifier.ipynb** : The script trains and predicts using a DCGAN based classifier as per the approach described in the report.
