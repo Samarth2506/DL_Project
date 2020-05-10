@@ -9,8 +9,10 @@
 
  ---
 
-*  Below is a description of the scripts submitted in the order of workflow of the project:
+ Link for the data : https://drive.google.com/open?id=19tf6fir
 
+*  Below is a description of the scripts submitted in the order of workflow of the project:
+git a
 1. **convert_img.py** : The scripts downsized the .jpg image to a size of 64x64. After resizing, the all images are stored as Numpy arrays.
 
 2. **GAN_train.ipynb** : The script adversarially trains an autoencoder to reconstruct images from real images in the celebA dataset (trains autoGAN model). 
