@@ -9,7 +9,7 @@
 
  ---
 
- * Link for the data : https://drive.google.com/open?id=19tf6fir
+ * Link for the data : https://drive.google.com/open?id=1l0s85SnJJ-3LSURkgenZ2n3L5RnfJVg5
 
  * Accuracy and loss plots for all models are uploaded in the plots folder.
 
