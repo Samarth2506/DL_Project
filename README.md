@@ -9,7 +9,11 @@
 
  ---
 
- Link for the data : https://drive.google.com/open?id=19tf6fir
+ * Link for the data : https://drive.google.com/open?id=19tf6fir
+
+ * Accuracy and loss plots for all models are uploaded in the plots folder.
+
+ ---
 
 *  Below is a description of the scripts submitted in the order of workflow of the project:
 git a
