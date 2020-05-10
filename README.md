@@ -1,6 +1,6 @@
 # Using GANs for DeepFake Image Detection
 
-## _Deep Learning Project - Final Project Code - Team ID: 12_
+ **_Deep Learning Project - Final Project Code - Team ID: 12_**
  * **Contributors**: Aditya Upadhyayula, Amrit Nidhi, Samarth Marudheri, Shreyash Kumar
 
  ---
@@ -9,7 +9,7 @@
 
  ---
 
-*  Below is a description of the scripts submitted in the order used in the workflow of the project:
+*  Below is a description of the scripts submitted in the order of workflow of the project:
 
 1. **convert_img.py** : The scripts downsized the .jpg image to a size of 64x64. After resizing, the all images are stored as Numpy arrays.
 
